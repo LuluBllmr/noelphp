@@ -17,13 +17,15 @@
     <input type="email" name="email" id="email"/>
 
   </div>
-  
-    <input type="submit" value="Envoyer">
+
+
     <div>
 
-      <label for="caché">Champs caché:</label>
-      <input type="hidden" name="caché" id="caché"/>
+      <label for="message">Message:</label>
+      <textarea type="msg" name="msg" id="msg"></textarea>
+
 
     </div>
       <input type="submit" value="Envoyer">
+      <input type="hidden" value="formcontact">
 </form>
