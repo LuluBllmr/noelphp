@@ -24,7 +24,6 @@
       <label for="message">Message:</label>
       <textarea type="msg" name="msg" id="msg"></textarea>
 
-
     </div>
       <input type="submit" value="Envoyer">
       <input type="hidden" value="formcontact">

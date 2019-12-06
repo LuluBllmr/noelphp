@@ -1,3 +1,4 @@
+<h1>Contact</h1>
 <?php
 
 if (isset($_POST['formcontact'])) {
