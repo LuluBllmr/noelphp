@@ -17,12 +17,7 @@
     <input type="email" name="email" id="email"/>
 
   </div>
-  <div>
-
-    <label for="mdp">Mot de passe:</label>
-    <input type="password" name="mdp" id="mdp"/>
-
-  </div>
+  
     <input type="submit" value="Envoyer">
     <div>
 
