@@ -3,5 +3,14 @@
 
 
 body {
-align-items: flex-start;
+background-color: #FFF;
+color:#000;
+font-size: 14px;
+font-family: Verdana, Arial, sans-serif;
+}
+
+form div{
+  background-color: #salmon;
+  width: 600px;
+  padding: 20px;
 }
