@@ -1,7 +1,15 @@
 <?php
 
-require './includes/formcontact.php';
+if (isset($_POST['formcontact'])) {
+  echo "Je viens du formulaire";
 
+}
+
+else {
+  echo "Je viens du futur";
+}
+
+require './includes/formcontact.php';
 
 ?>
 <!DOCTYPE html>
