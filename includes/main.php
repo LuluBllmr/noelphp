@@ -17,7 +17,7 @@ if (in_array($page, $liste)) {
   require $page;
 }
 else {
-  require './includes/pages/accueil.inc.php';
+  require './includes/pages'. $page . '.php';
 }
 
   ?>

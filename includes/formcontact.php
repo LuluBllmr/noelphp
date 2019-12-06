@@ -25,6 +25,6 @@
       <textarea type="msg" name="msg" id="msg"></textarea>
 
     </div>
-      <input type="submit" value="Envoyer">
+      <input type="submit" value="Clique moi grand fou !">
       <input type="hidden" value="formcontact">
 </form>
